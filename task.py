@@ -4,3 +4,7 @@ def my_func():
 
 def my_func2():
     return "Hi"
+
+def my_func3():
+    return "Hi"
+
